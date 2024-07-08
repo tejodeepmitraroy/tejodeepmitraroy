@@ -113,22 +113,17 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tejodeepmitraroy/)
 
-
-
 ## 📈📊 **My Github Stats**
-
-<div style="display:flex; justify-content: space-evenly; flex-wrap:wrap; text-align: center">
-
-
+<!-- 
+<div style="display:flex; justify-content: space-evenly; flex-wrap:wrap; text-align: center"> -->
 
 [![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)
 
 [![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
-
 
 [![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)
 
 [![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)
 
 
-</div>
+<!-- </div> -->
