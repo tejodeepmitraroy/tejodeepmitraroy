@@ -1,4 +1,5 @@
-https://github.com/tejodeepmitraroy/tejodeepmitraroy/blob/main/banner
+
+![Readme Card](https://github.com/tejodeepmitraroy/tejodeepmitraroy/blob/main/banner.png)
 # Tejodeep Mitra Roy
 
 `Digital Craftman(Developer/Creator)`
