@@ -6,9 +6,9 @@ I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm de
 
 - 🔭 I’m currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_mocha#gh-dark-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_latte#gh-light-mode-only)
 
 - 👨‍💻 All of my projects are available at [https://www.ttezo.in/](https://www.ttezo.in/)
 
@@ -18,40 +18,41 @@ I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm de
 
 ### ⚙️ My Github Stats
 
-![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)
+[![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)
 
-![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
 
-![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)
+[![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
 
-![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)
+[![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)
+
+[![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)
 
 ## My Tech Stack
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### Frontend frameworks & libraries
 
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,redux,jest&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,redux,jest)](https://skillicons.dev)
 
 ### Backend frameworks & libraries
 
-[![My Skills](https://skillicons.dev/icons?i=next,express,nodejs,prisma,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,express,nodejs,prisma,)](https://skillicons.dev)
 
 ### Favorite Database
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,planetscale,supabase,redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,planetscale,supabase,redis)](https://skillicons.dev)
 
 ### Development Tools & Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman)](https://skillicons.dev)
 
-### Hosting & Cloud
+### Hosting & loud
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws,gcp)](https://skillicons.dev)
 
 
 
@@ -72,7 +73,6 @@ I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm de
 <a href="https://twitter.com/ttezomon_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttezomon_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejodeep-mitra-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejodeep-mitra-roy/" height="30" width="40" /></a>
 </p>
-
 
 
 
