@@ -2,7 +2,7 @@
 
 `Digital Craftman(Developer/Creator)`
 
-> I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm developing apps that useful for common users. I really enjoy to do Open Source and learning new technologies like `Next js`, `Docker`, `AWS cloud` as well as work in `Next Js + Express js + Typescript`. I passionate about colaboration, contributing in open-source and building community. You can checkout my Twitter at [x.com/tezomon_dev](https://x.com/tezomon_dev)
+### I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm developing apps that useful for common users. I really enjoy to do Open Source and learning new technologies like `Next js`, `Docker`, `AWS cloud` as well as work in `Next Js + Express js + Typescript`. I passionate about colaboration, contributing in open-source and building community. You can checkout my Twitter at [x.com/tezomon_dev](https://x.com/tezomon_dev)
 
 - 🔭 I’m currently working on
 
