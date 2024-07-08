@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-dark-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-light-mode-only)
 
 - 👨‍💻 All of my projects are available at [https://www.ttezo.in/](https://www.ttezo.in/)
 
