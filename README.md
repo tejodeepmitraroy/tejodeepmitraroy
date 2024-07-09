@@ -9,6 +9,8 @@
 
 ### You can checkout my Twitter at [x.com/tezomon_dev](https://x.com/tezomon_dev)
 
+### You can connect with my Linkedin at [linkedin.com/in/tejodeepmitraroy](https://www.linkedin.com/in/tejodeepmitraroy/)
+
 - 🔭 I’m currently working on
 
 <div>
