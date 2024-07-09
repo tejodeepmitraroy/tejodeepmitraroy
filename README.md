@@ -26,6 +26,7 @@
 ![tejodeepmitraroy](https://komarev.com/ghpvc/?username=tejodeepmitraroy&label=Profile%20views&color=0e75b6&style=flat)
 
 [![tejodeepmitraroy](https://img.shields.io/twitter/follow/tezomon_dev?logo=twitter&style=for-the-badge)](https://x.com/tezomon_dev)
+[![tejodeepmitraroy](https://img.shields.io/twitter/follow/tezomon_dev?logo=twitter&style=for-the-badge)](https://x.com/tezomon_dev)
 
 
 
@@ -34,11 +35,8 @@
 <!-- <div style="width:100%; display:flex;"> -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=vedo-video-calling-app&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-dark-mode-only)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=vedo-video-calling-app&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-light-mode-only)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=url-shortner-123&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-dark-mode-only)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=url-shortner-123&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-light-mode-only)
 
 
@@ -120,25 +118,14 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws,gcp)](https://skillicons.dev) -->
 
-
-
-<h3 align="left">Connect with me:</h3>
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.linkedin.com/in/tejodeepmitraroy/)
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tejodeepmitraroy/)
-
 ## 📈📊 **My Github Stats**
 <!-- 
 <div style="display:flex; justify-content: space-evenly; flex-wrap:wrap; text-align: center"> -->
 
 [![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_mocha#gh-dark-mode-only)
-
 [![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=tejodeepmitraroy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)
-
-[![Tejodeep's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)
-
-[![Tejodeep's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)
+[![Tejodeep's GitHub top-langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)
+[![Tejodeep's GitHub top-langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=tejodeepmitraroy&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte#gh-light-mode-only)
 
 
 <!-- </div> -->
