@@ -1,16 +1,20 @@
-
-![Readme Card](https://github.com/tejodeepmitraroy/tejodeepmitraroy/blob/main/banner.png)
 # Tejodeep Mitra Roy
 
-`Digital Craftman(Developer/Creator)`
+### `Digital Craftman(Developer/Creator)`
 
-### I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm developing apps that useful for common users. I really enjoy to do Open Source and learning new technologies like `Next js`, `Docker`, `AWS cloud` as well as work in `Next Js + Express js + Typescript`. I passionate about colaboration, contributing in open-source and building community. You can checkout my Twitter at [x.com/tezomon_dev](https://x.com/tezomon_dev)
+### I'm Tejodeep, a Full-stack Javascript Developer/indie hacker, from India. I'm developing apps that useful for common users. I really enjoy to do Open Source and learning new technologies like `Next js`, `Docker`, `AWS cloud` as well as work in `Next Js + Express js + Typescript`. I passionate about colaboration, contributing in open-source and building community.
+
+### You can checkout my Twitter at [x.com/tezomon_dev](https://x.com/tezomon_dev)
 
 - 🔭 I’m currently working on
+
+<div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-dark-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&layout=compact&repo=vedo-video-calling-app&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-light-mode-only)
+
+</div>
 
 - 👨‍💻 All of my projects are available at [https://www.ttezo.in/](https://www.ttezo.in/)
 
@@ -18,8 +22,19 @@
 
 ## **My Best Projects**
 
+<!-- <div style="width:100%; display:flex;"> -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=vedo-video-calling-app&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-dark-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=vedo-video-calling-app&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-light-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=url-shortner-123&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-dark-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejodeepmitraroy&repo=url-shortner-123&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/tejodeepmitraroy/vedo-video-calling-app#gh-light-mode-only)
 
 
+
+<!-- </div> -->
 
 
 
