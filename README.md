@@ -1,3 +1,6 @@
+
+![banner](https://github.com/tejodeepmitraroy/tejodeepmitraroy/blob/main/banner.png)
+
 # Tejodeep Mitra Roy
 
 ### `Digital Craftman(Developer/Creator)`
@@ -20,6 +23,12 @@
 
 - 📫 How to reach me **<tejodeepmitraroy2002@gmail.com>**
 
+![tejodeepmitraroy](https://komarev.com/ghpvc/?username=tejodeepmitraroy&label=Profile%20views&color=0e75b6&style=flat)
+
+[![tejodeepmitraroy](https://img.shields.io/twitter/follow/tezomon_dev?logo=twitter&style=for-the-badge)](https://x.com/tezomon_dev)
+
+
+
 ## **My Best Projects**
 
 <!-- <div style="width:100%; display:flex;"> -->
@@ -35,15 +44,6 @@
 
 
 <!-- </div> -->
-
-
-
-
-
-
-
-
-
 
 ## ⚙️🛠️**My Tech Stacks**
 
@@ -120,9 +120,7 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws,gcp)](https://skillicons.dev) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejodeepmitraroy&label=Profile%20views&color=0e75b6&style=flat" alt="tejodeepmitraroy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ttezomon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ttezomon_dev?logo=twitter&style=for-the-badge" alt="ttezomon_dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
