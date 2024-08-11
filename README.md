@@ -28,7 +28,6 @@
 ![tejodeepmitraroy](https://komarev.com/ghpvc/?username=tejodeepmitraroy&label=Profile%20views&color=0e75b6&style=flat)
 
 [![tejodeepmitraroy](https://img.shields.io/twitter/follow/tezomon_dev?logo=twitter&style=for-the-badge)](https://x.com/tezomon_dev)
-[![tejodeepmitraroy](https://img.shields.io/twitter/follow/tezomon_dev?logo=twitter&style=for-the-badge)](https://x.com/tezomon_dev)
 
 
 
